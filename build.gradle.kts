@@ -24,7 +24,7 @@ plugins {
     kotlin("jvm") version "1.9.20"
     kotlin("plugin.spring") version "1.9.20"
     id("com.netflix.dgs.codegen") version "5.11.1"
-    id("org.springframework.boot") version "2.7.17"
+    id("org.springframework.boot") version "3.1.6"
 }
 
 extra["kotlin.version"] = "1.9.20"
